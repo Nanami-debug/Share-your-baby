@@ -5,6 +5,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 
+
 namespace talkServer
 {
     class Program
@@ -105,6 +106,7 @@ namespace talkServer
                         string receiverId = parts[1];
                         string msgContent = parts[2];
                         Program.RouteMessage(ClientId, receiverId, msgContent);
+                        talkHistory.SaveMessage(ClientId, receiverId, msgContent);
                     }
                 }
             }

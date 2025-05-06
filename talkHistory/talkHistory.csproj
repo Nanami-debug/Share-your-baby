@@ -11,8 +11,4 @@
     <PackageReference Include="MySql.Data.EntityFramework" Version="9.3.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\talkHistory\talkHistory.csproj" />
-  </ItemGroup>
-
 </Project>
