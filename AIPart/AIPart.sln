@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIPart", "AIPart.csproj", "{27CD2BF3-1129-4B63-B478-D10CA3CC56EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CD2BF3-1129-4B63-B478-D10CA3CC56EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CD2BF3-1129-4B63-B478-D10CA3CC56EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CD2BF3-1129-4B63-B478-D10CA3CC56EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CD2BF3-1129-4B63-B478-D10CA3CC56EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C356772C-3610-4423-80C5-0D8238695522}
+	EndGlobalSection
+EndGlobal
