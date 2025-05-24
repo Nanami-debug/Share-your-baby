@@ -1,0 +1,6 @@
+D:\project\assemble\商城类\C#\商品销售管理系统CS架构\Model\bin\Debug\Model.dll
+D:\project\assemble\商城类\C#\商品销售管理系统CS架构\Model\bin\Debug\Model.pdb
+D:\project\assemble\商城类\C#\商品销售管理系统CS架构\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\project\assemble\商城类\C#\商品销售管理系统CS架构\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\project\assemble\商城类\C#\商品销售管理系统CS架构\Model\obj\Debug\Model.dll
+D:\project\assemble\商城类\C#\商品销售管理系统CS架构\Model\obj\Debug\Model.pdb
